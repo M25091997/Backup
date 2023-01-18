@@ -1,0 +1,19 @@
+const mongoose = require('mongoose');
+
+const highlightSchema = new mongoose.Schema({
+    name: {
+        type: String,
+        required: true,
+        unique: true,
+        trim: true
+    },
+    slug: {
+        type: String,
+        required: true,
+        unique: true
+    },
+    highlightImage: { type: String }
+
+}, { timestamps: true });
+
+module.exports = mongoose.model('Highlight', highlightSchema);

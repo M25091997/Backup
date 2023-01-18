@@ -1,0 +1,11 @@
+import React from 'react'
+import Shim from '../../Shim';
+
+
+const AttrShim = () => {
+  return (
+      <Shim height={'30px'} width={'70px'} radius={'30%'} border={'2px'} grid={'col-xs-12 col-xl-3 col-lg-3 col-md-3 '} />
+  )
+}
+
+export default AttrShim

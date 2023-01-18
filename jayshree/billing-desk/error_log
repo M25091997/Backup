@@ -1,0 +1,2 @@
+[12-Apr-2021 13:37:48 Asia/Calcutta] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home1/cybertiz/cityindia.in/config.php on line 20
+[12-Apr-2021 13:37:50 Asia/Calcutta] PHP Warning:  mysqli::__construct(): (HY000/1040): Too many connections in /home1/cybertiz/cityindia.in/config.php on line 20

@@ -1,0 +1,49 @@
+<?php session_start(); ?>
+<?php include("../../config.php"); ?>
+<?php  
+
+    $order_id = $_POST['order_id'];
+    $status_id = $_POST['status_id'];
+
+    $glabel = $_POST['glabel'];
+    $gamount = $_POST['gamount'];
+
+     $cQ = $conn -> query("SELECT * FROM bookings WHERE id = '$order_id' ORDER BY id DESC "); 
+	 while ($rowD = mysqli_fetch_array($cQ)) { 
+        $account_id = $rowD['account_id'];  
+        $alloted_coins = $rowD['alloted_coins'];
+    }
+
+	 $aQ = $conn -> query("SELECT * FROM accounts WHERE id = '$account_id'");
+     while ($sD = mysqli_fetch_array($aQ)) { $mobile = $sD['phone']; }
+
+    /*When Order is Complete & Delivered*/
+    if ($status_id == '4') {
+     _SEND_MESSAGE_NEW($mobile, "Dear Customer, Your order id #".$order_id." has been Delivered Successfully. Hope you are satisfied with our service, please rate us on the Play Store accordingly - CityIndia.in", "1207162169235854506"); 
+
+    _SEND_MESSAGE_NEW("9801840531", "Dear Customer, Your order id #".$order_id." has been Delivered Successfully. Hope you are satisfied with our service, please rate us on the Play Store accordingly - CityIndia.in", "1207162169235854506"); 
+
+    GiveCoins( $account_id, $alloted_coins, $order_id);
+
+    $R5 = $conn->query("UPDATE bookings SET payment_status = '1' WHERE id = '$order_id' "); }
+
+    /*When Order is being processed and packed*/
+    if ($status_id == '2') { _SEND_MESSAGE_NEW($mobile, "Dear Customer, Your order id #".$order_id." has been processed. You will receive your goods within 2 Hours - CityIndia.in", "1207162169220135742"); }
+
+    /*When Order is has been shipped and in transit*/
+    if ($status_id == '3') { _SEND_MESSAGE_NEW($mobile, "Dear Customer, Your order id #".$order_id." is out for delivery. You will receive your order shortly - CityIndia.in", "1207162169227727803"); }
+
+
+
+    $R4 = $conn->query("UPDATE bookings SET order_status = '$status_id' WHERE id = '$order_id' ");
+
+    $R5 = $conn->query("UPDATE bookings SET payment_status = '1' WHERE id = '$order_id' ");
+    
+    if($gamount>0) {
+    $R6 = $conn->query("UPDATE bookings SET gift_amount = '$gamount', gift_label = '$glabel' WHERE id = '$order_id' ");
+    }
+    
+
+    if ($R4 OR $R6) {	header('Location: all-orders.php'); }
+
+ ?>

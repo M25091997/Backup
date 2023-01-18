@@ -1,0 +1,1421 @@
+body {
+  font-family: "Mulish", sans-serif;
+  background-color: #ededed;
+}
+
+button {
+  border: none;
+}
+
+.proceed_btn button + button {
+  display: none;
+}
+
+.pt_50 {
+  padding-top: 50px;
+}
+
+.plr_40 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.font_w_b {
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* bundle start */
+.bundle_sub_section {
+  position: relative;
+  padding: 70px 0;
+  overflow: hidden;
+}
+
+.bundle_bg_shape {
+  position: absolute;
+  right: -44px;
+  bottom: 3px;
+  background-image: url("../public/images/bg_shape.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  z-index: -1;
+}
+
+.bundle_bg_warp {
+  padding: 326px 0px 326px 326px;
+}
+
+.bundle_heading {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.bundle_heading h1 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 55px;
+  color: #3a3a3a;
+}
+
+.add_more_btn {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 30px;
+  color: #252525;
+  border: navajowhite;
+  background: #fff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+  padding: 8px 25px;
+}
+
+.bundle_wrap p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  color: #484848;
+}
+
+.processed_checkout a {
+  color: #ffff;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  letter-spacing: 0.105em;
+}
+
+.cat h2 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.bundle_item {
+  background: #ffffff;
+  border: 1px solid #c8c8c8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 7px;
+  padding: 25px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.thum {
+  position: relative;
+  margin: -34px;
+}
+
+.thum img {
+  width: 100%;
+}
+
+.bundle_text {
+  padding-left: 20px;
+}
+
+.bundle_text h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #667d0e;
+}
+
+.bundle_wrap a {
+  background-color: #53900f;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+}
+.thanks-btn {
+  background: #53900f;
+}
+
+.bundle_text p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.105em;
+  color: #a5a5a5;
+}
+
+.bundle_footer_btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.remove_btn button {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  background: #53900f;
+  border-radius: 4px;
+  border: none;
+  padding: 5px 20px;
+}
+
+.ornanic-section {
+  margin: 0px 25px;
+}
+
+.select_price button {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.105em;
+  color: #000000;
+  padding: 6px 14px;
+  background: #c4c4c4;
+  border-radius: 5px;
+}
+
+/* sub total  */
+.bundle_sub_total_item {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 25px;
+  margin-bottom: 30px;
+}
+
+.sub_total_title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sub_total_title h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.sub_price {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.sub_discount_title h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  letter-spacing: 0.105em;
+  color: #8f8f8f;
+}
+
+.discount_price {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  letter-spacing: 0.105em;
+  position: relative;
+  color: #000000;
+}
+
+.discount_price::before {
+  content: "";
+  position: absolute;
+  width: 114px;
+  height: 2px;
+  background: #000;
+  top: 14px;
+  left: -6px;
+}
+
+.offer_price {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 68px;
+  letter-spacing: 0.105em;
+  color: #000000;
+  position: relative;
+}
+
+.offer_badge {
+  position: absolute;
+  top: -40px;
+  left: 230px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  background: #30ac1b;
+  font-size: 17px;
+  line-height: 21px;
+  padding: 5px 15px;
+  color: #ffffff;
+}
+
+.subscription_btn {
+  background: #53900f;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 20px 50px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 24px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  width: 100%;
+  text-decoration: none;
+}
+
+.subscription_btn img {
+  margin-left: 30px;
+}
+
+.skip_btn,
+.cancel_btn {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 14px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  background: #777777;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 15px 30px;
+  width: 100%;
+}
+
+.cancel_btn {
+  background: #ee3911;
+}
+
+/* bundle end */
+
+/* boxing preview  */
+.coupon_title h3 {
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.coupon_link a {
+  padding-bottom: 4px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  text-decoration-line: underline;
+  color: #8f8f8f;
+  display: block;
+}
+
+.sub_area_item {
+  background: #ffffff;
+  border: 3px solid #7e51ff;
+  border-radius: 11px;
+  padding: 16px 16px 16px 16px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.check_out_sub {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  letter-spacing: 0.105em;
+  color: #565656;
+}
+
+.sub_area_item h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  color: #522fb5;
+  position: relative;
+}
+
+.sub_text_content p {
+  padding: 11px 20px 8px 15px;
+  background: #00eb7a;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 18px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.sub_box_shape1::after,
+.sub_box_shape2::after {
+  content: "";
+  width: 25px;
+  height: 25px;
+  background: #7e51ff;
+  position: absolute;
+  right: 0;
+  border-radius: 50%;
+}
+
+.sub_box_shape2::after {
+  background: #fff;
+  border: 3px solid #7e51ff;
+}
+
+.new_year_coupon {
+  background: #1ce047;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.new_year_coupon .coupon_title h3 {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.new_year_coupon .coupon_title h3 img {
+  margin-left: 30px;
+  margin-top: -5px;
+}
+
+.new_year_coupon .coupon_link a {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  text-decoration-line: underline;
+  color: #000000;
+}
+
+/* bundle created */
+.check_out_heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.filter_btn {
+  background: #28b895;
+  border-radius: 7px;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.105em;
+  color: #000000;
+  padding: 7px 11px;
+}
+
+.filter_btn_two {
+  background: #28b895;
+  border-radius: 7px;
+  font-size: 22px;
+  line-height: 28px;
+  letter-spacing: 0.105em;
+  color: #000000;
+  padding: 7px 11px;
+}
+
+.processed_checkout {
+  background: #53900f;
+  border-radius: 7px;
+  padding: 5px 11px;
+  color: #fff;
+  margin: 13px 0;
+}
+
+.processed_checkout h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 29px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+}
+
+.processed_checkout p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  padding-left: 12px;
+}
+
+.finter_area {
+  background: #d9d9d9;
+  padding: 20px 0;
+  margin-top: 30px;
+}
+
+.button_area button {
+  background: #53900f;
+  border-radius: 10px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  padding: 10px 41px;
+  margin-right: 20px;
+  border: 3px solid #53900f;
+  transition: all 0.5s;
+  margin-bottom: 30px;
+}
+
+.button_area button:hover {
+  background: white;
+  color: #53900f;
+}
+
+.check_des_area {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 0;
+  padding: 0;
+  color: #fff;
+  margin-top: 30px;
+  border-radius: 8px;
+}
+
+.check_des_area h4 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #ffffff;
+}
+
+.chek_text p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+.chek_text {
+  padding-top: 38px;
+}
+.total_text_price h5 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.total_text_price h5 span {
+  font-weight: 700;
+}
+
+.pagination_button button {
+  background: #53900f;
+  border-radius: 13px;
+  padding: 3px 37px;
+  border: 3px solid #53900f;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0;
+  color: #ffffff;
+  transition: all 0.5s;
+}
+
+.pagination_button button:hover,
+.pagination_button .p_skip_btn {
+  background: #fff;
+  color: #53900f;
+}
+
+.pagination_button .prev_btn img {
+  margin-right: 10px;
+  margin-top: -5px;
+}
+
+.pagination_button .next_btn img {
+  margin-left: 10px;
+  margin-top: -5px;
+}
+
+.pagination_button .p_skip_btn:hover {
+  background: #53900f;
+  color: #fff;
+}
+
+/* checkout */
+.monthly_arae {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 27px;
+  padding: 30px;
+  display: block;
+  overflow: hidden;
+}
+
+.monthly_arae button {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  color: #ffffff;
+  padding: 10px;
+  width: max-content;
+  margin-bottom: 30px;
+}
+
+.month_content p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 57px;
+  color: #000000;
+  display: flex;
+  align-items: center;
+}
+
+.check_out_price_area {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.check_out_price_area .bundle_sub_total_item {
+  flex-basis: 50%;
+}
+
+.check_out_price_area .check_out_wallet {
+  flex-basis: 50%;
+}
+
+.check_out_price_area .sub_discount_title h3 {
+  font-size: 41px;
+  line-height: 51px;
+  letter-spacing: 0.105em;
+  color: #8f8f8f;
+}
+
+.add_price.select_price {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.add_price {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 33px;
+  color: #000000;
+}
+
+.add_price span {
+  font-weight: 700;
+}
+
+.processed_checkout span {
+  text-decoration: underline;
+}
+
+/* wallet  */
+.wallet_main_area {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.wallet_history {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #ffffff;
+  padding: 20px;
+  border: 1px solid #d3d3d3;
+}
+
+.wallet_left {
+  display: flex;
+  gap: 20px;
+}
+
+.w_content {
+  margin-top: 8px;
+}
+
+.w_content h5 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.105em;
+  color: #303754;
+}
+
+.w_content p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 0.105em;
+  color: #b0b0b0;
+}
+
+.w_price {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 16px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.wallet_Balance_area h3 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.w_b_item {
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.w_b_item span {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  letter-spacing: 0.105em;
+  color: #474747;
+}
+
+.add_money_box h4 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #303754;
+}
+
+.add_money_box .input-group-text {
+  background-color: transparent;
+  border: 0;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 46px;
+  line-height: 35px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.add_money_box .form-control {
+  border: 0 !important;
+  border-bottom: 1px solid #6f6f6f !important;
+  padding: 0;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 41px;
+  letter-spacing: 0.105em;
+  color: #7a7a7a;
+}
+
+.add_money_box .form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #86b7fe;
+  outline: 0;
+  box-shadow: none;
+}
+
+.proceed_btn button {
+  background: #53900f;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  padding: 10px 20px;
+  width: 100%;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 36px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+}
+
+.m_heading {
+  padding: 10px;
+  text-align: left;
+  background: #f9f249;
+  margin-bottom: 50px;
+  display: none;
+}
+
+.transactions {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+/* thank */
+.thank_section {
+  background: #fff;
+  padding: 0px 0;
+}
+
+.thank_thum {
+  width: 25%;
+  margin: auto;
+}
+
+.thank_content {
+  overflow: hidden;
+}
+
+.thank_content h4 {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.105em;
+  color: #000000;
+}
+
+.thank_content p {
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.105em;
+  color: #858585;
+}
+
+.thank_btn {
+  text-align: center;
+}
+
+.thank_content p span {
+  text-decoration: underline;
+}
+
+.shopping_btn,
+.bookings_btn {
+  background: #30ac1b;
+  box-shadow: 0px 3px 12px rgb(0 0 0 / 25%);
+  border-radius: 10px;
+  padding: 0px 14px;
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 60px;
+  letter-spacing: 0.105em;
+  color: #ffffff;
+  margin-bottom: 16px;
+}
+
+.bookings_btn {
+  background: #ffffff;
+  color: #727272;
+}
+
+.blog {
+  background: linear-gradient(
+    180deg,
+    #09a42b 34.1%,
+    rgba(35, 131, 56, 0.36) 89.06%
+  );
+}
+
+.blog-title {
+  text-align: center;
+}
+textarea.form-control.form_monthly {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  color: #522fb5;
+}
+input.form-control.form_yearly {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  letter-spacing: 0.105em;
+  color: #522fb5;
+  padding: 10px 12px;
+}
+
+input.form-check-input.monthly_checked_form {
+  margin-left: -33px;
+  margin-top: 39px;
+}
+input.form-check-input.onetime_checked_form {
+  margin-left: -33px;
+  margin-top: 16px;
+}
+
+.modal-header {
+  border: 0;
+}
+.modal-footer {
+  border-top: 0;
+}
+button.plus_btn {
+  background-color: white;
+  margin: 0px 10px;
+  font-weight: 800;
+  border: 1px solid #000;
+  border-radius: 73%;
+  padding: 0 8px;
+  font-size: 10px;
+}
+button.minus_btn {
+  background-color: white;
+  margin: 0px 10px;
+  font-weight: 800;
+  border: 1px solid #000;
+  border-radius: 73%;
+  padding: 0 8px;
+  font-size: 10px;
+}
+button.new-button {
+  padding: 5px;
+}
+.check_des_area img {
+  width: 140px;
+}
+.chek_text h4 {
+  font-size: 25px;
+  font-weight: 700;
+}
+/* responsive  */
+@media (max-width: 1140px) {
+  .m_heading {
+    display: none;
+  }
+
+  .transactions {
+    display: none;
+  }
+
+  .proceed_btn button + button {
+    display: none;
+  }
+}
+
+img.checkout-image {
+  margin-left: 11px;
+}
+
+img.arrow-image {
+  width: 24px;
+  margin-left: 6px;
+}
+@media (max-width: 425px) {
+  .thank_content p {
+    font-size: 17px;
+  }
+  .thank_section {
+    background: #fff;
+    padding: 0px 0;
+  }
+  .thank_content h4 {
+    font-size: 25px;
+  }
+  .offer_price {
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 0;
+    color: #000000;
+    position: relative;
+  }
+  .add_price.select_price {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 17px 67px;
+  }
+  .bundle_sub_total_item {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    /* padding: 66px 139px; */
+    margin-bottom: 30px;
+  }
+  .check_out_price_area .sub_discount_title h3 {
+    font-size: 30px;
+    line-height: 45px;
+    letter-spacing: 0.105em;
+    color: #8f8f8f;
+  }
+  .monthly_arae {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 27px;
+    padding: 23px 0 0 0;
+    display: block;
+    overflow: hidden;
+  }
+  .bundle_wrap a {
+    background-color: #53900f;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 0;
+    letter-spacing: 0;
+    color: #ffffff;
+  }
+  .filter_btn {
+    background: #28b895;
+    border-radius: 5px;
+    font-size: 15px;
+    line-height: 0;
+    letter-spacing: 0;
+    color: #000000;
+    padding: 3px 6px;
+  }
+  .bundle_item {
+    background: #ffffff;
+    border: 1px solid #c8c8c8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 7px;
+    padding: 17px 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 27px;
+  }
+  .remove_btn button {
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 1;
+    letter-spacing: 0;
+    color: #ffffff;
+    background: #53900f;
+    border-radius: 4px;
+    border: none;
+    padding: 10px 6px;
+  }
+  .select_price button {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 1;
+    letter-spacing: 0.105em;
+    color: #000000;
+    padding: 9px 9px;
+    background: #c4c4c4;
+    border-radius: 13px;
+  }
+  .pagination_button button {
+    background: #53900f;
+    border-radius: 8px;
+    padding: 0px 14px;
+    border: 1px solid #53900f;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 33px;
+    letter-spacing: 0;
+    color: #ffffff;
+    transition: all 0.5s;
+  }
+  button.p_skip_btn a {
+    color: #53900f !important;
+  }
+  .prev_btn img {
+    width: 16px;
+    padding: 0;
+  }
+  .next_btn img {
+    width: 16px;
+    padding: 0;
+  }
+  .check_des_area img {
+    width: 100px;
+    padding-top: 10px;
+  }
+  .bundle_sub_section {
+    position: relative;
+    padding: 28px 0;
+    overflow: hidden;
+  }
+  .bundle_heading h1 {
+    font-size: 29px;
+  }
+  .bundle_wrap p {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .processed_checkout a {
+    font-size: 18px;
+  }
+  .processed_checkout p {
+    font-size: 15px;
+  }
+  .button_area button {
+    background: #53900f;
+    border-radius: 5px;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 0;
+    letter-spacing: 0;
+    color: #ffffff;
+    padding: 17px 12px;
+    border: 0;
+    transition: all 0.5s;
+    margin: 10px 12px;
+  }
+  .new_year_coupon {
+    background: #1ce047;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-top: 50px;
+  }
+  .bundle_heading {
+    flex-direction: column;
+    gap: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .check_out_heading {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .check_des_area {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .button_area {
+    text-align: center;
+  }
+
+  .bundle_wrap p {
+    text-align: center;
+  }
+
+  .bundle_text h3 {
+    font-size: 20px;
+  }
+
+  .pagination_area {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  /* .pagination_button {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  } */
+
+  .monthly_arae {
+    text-align: center;
+  }
+
+  .monthly_arae button {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 0;
+    color: #ffffff;
+    padding: 18px 5px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+  }
+  .check_out_price_area {
+    flex-direction: column;
+  }
+
+  .offer_badge {
+    top: -27px;
+    left: 135px;
+    position: absolute;
+    font-size: 14px;
+    line-height: 21px;
+    padding: 2px 12px;
+    border-radius: 5px;
+  }
+  .processed_checkout h3 {
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    letter-spacing: 0;
+    color: #ffffff;
+    text-align: center;
+  }
+
+  /* wallet_Balance_area */
+  .wallet_section {
+    padding-top: 0;
+  }
+
+  .wallet_history {
+    display: block;
+  }
+
+  .wallet_left {
+    flex-direction: row-reverse;
+    justify-content: space-between;
+  }
+
+  .w_price {
+    display: none;
+  }
+
+  .wallet_section .w_col_reverse {
+    flex-direction: column-reverse;
+  }
+
+  .m_heading {
+    display: block;
+  }
+
+  .transactions {
+    display: block;
+  }
+
+  .proceed_btn button + button {
+    display: block;
+  }
+
+  .wallet_section .bundle_wrap {
+    display: none;
+  }
+
+  .wallet_section .add_money_item_area {
+    display: none;
+  }
+
+  .proceed_btn button:first-child {
+    display: none;
+  }
+
+  .thuk_content h4,
+  .thuk_content p {
+    font-size: 22px;
+    line-height: 35px;
+  }
+
+  .shopping_btn,
+  .bookings_btn {
+    font-size: 18px;
+    line-height: 35px;
+  }
+}
+
+@media (max-width: 410px) {
+  .thank_content h4 {
+    font-size: 13px;
+  }
+  .bundle_wrap p {
+    font-size: 13px;
+    font-weight: 600;
+  }
+  .pagination_button button {
+    background: #53900f;
+    border-radius: 8px;
+    padding: 0px 11px;
+    border: 1px solid #53900f;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 33px;
+    letter-spacing: 0;
+    color: #ffffff;
+    transition: all 0.5s;
+  }
+  button.p_skip_btn a {
+    color: #53900f !important;
+    margin: 0 -12px;
+  }
+  .select_price button {
+    font-size: 9px;
+    letter-spacing: 0.105em;
+    color: #000;
+    padding: 6px;
+    background: #c4c4c4;
+    border-radius: 5px;
+  }
+  .remove_btn button {
+    font-family: Mulish;
+    font-size: 10px;
+    letter-spacing: 0;
+    color: #fff;
+    background: #53900f;
+    border-radius: 4px;
+    border: none;
+    padding: 7px 3px;
+  }
+  span.quantity {
+    font-size: 12px;
+  }
+
+  .contact-short-title {
+    font-size: 14px;
+  }
+  .contact-title {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 375px) {
+  .thank_content h4 {
+    font-size: 11px;
+  }
+  .pagination_button button {
+    background: #53900f;
+    border-radius: 5px;
+    padding: 0px 4px 0 0;
+    border: 1px solid #53900f;
+    font-family: "Mulish";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 33px;
+    letter-spacing: 0;
+    color: #ffffff;
+    transition: all 0.5s;
+  }
+  button.prev_btn {
+    padding: 0 10px 0 7px;
+  }
+  button.next_btn.m-0.m-lg-2 {
+    padding: 0 7px 0 10px;
+  }
+  .pagination_button .prev_btn img {
+    margin-right: 10px;
+    margin-top: -2px;
+  }
+  .pagination_button .next_btn img {
+    margin-left: 10px;
+    margin-top: -2px;
+  }
+}
+
+@media (max-width: 320px) {
+  .bundle_item {
+    flex-direction: column;
+  }
+
+  .thum {
+    margin: 0px;
+  }
+
+  .bundle_text h3 {
+    font-size: 16px;
+  }
+
+  .bundle_footer_btn {
+    flex-direction: column;
+  }
+
+  .monthly_arae button {
+    font-size: 10px;
+  }
+
+  .month_content p {
+    font-size: 17px;
+    line-height: 32px;
+    text-align: left;
+  }
+}

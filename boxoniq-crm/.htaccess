@@ -1,0 +1,54 @@
+RewriteEngine On
+
+RewriteCond %{HTTPS} !on
+
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+
+RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
+
+RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
+
+RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
+
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+#Product
+RewriteRule ^item/([^/\.]+)/?$ item.php?slug=$1 [QSA] [L]
+
+#Product
+RewriteRule ^product/([^/\.]+)/?$ product.php?slug=$1 [QSA] [L]
+
+#Product
+RewriteRule ^p/([^/\.]+)/?$ product.php?slug=$1 [QSA] [L]
+
+#Page
+#RewriteRule ^([^/\.]+)/?$ page.php?slug=$1 [L]
+
+#Category
+RewriteRule ^Category/([^/\.]+)/?$ super-category.php?slug=$1 [QSA] [L]
+
+#Category
+RewriteRule ^Store/([^/\.]+)/?$ sub-category.php?slug=$1 [QSA] [L]
+
+#Category
+RewriteRule ^Outlet/([^/\.]+)/?$ child-category.php?slug=$1 [QSA] [L]
+
+#Brand
+RewriteRule ^Brand/([^/\.]+)/?$ brand.php?slug=$1 [QSA] [L]
+
+
+
+#Code For Not adding .php extention
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+
+
+
+php_flag log_errors on
+php_value error_reporting 32767
+php_value error_log "error_log.txt"

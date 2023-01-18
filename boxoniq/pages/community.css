@@ -1,0 +1,580 @@
+/* Default css */
+.navbar-bg {
+  background-color: #d6ce15;
+}
+.text-black {
+  color: black;
+}
+.body-bg {
+  background-color: #26ab43;
+}
+
+.section-container {
+  background-color: #f3f3f3;
+}
+.community-title {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 69px;
+}
+.community-name {
+  font-weight: 800;
+  font-size: 50px;
+}
+.info-sec {
+  background: #6c63ff;
+}
+
+/* communtity section */
+.community-container h1 {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+}
+.community-container {
+  background-image: url("https://i.ibb.co/WvCy1zJ/Rectangle-shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  height: 90vh;
+}
+
+button.btn.text-white.community-btn {
+  padding: 7px 30px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 31px;
+  letter-spacing: 0.025em;
+  margin-left: 25px;
+}
+button.btn.text-white.community-get-start-btn {
+  padding: 14px 60px;
+  margin-bottom: 100px;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 38px;
+  letter-spacing: 0.025em;
+  margin-left: 9px;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+}
+p.community-des {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 30px;
+  color: #000000;
+}
+.quesiton-title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 38px;
+}
+.feature-title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.feature-para {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.025em;
+  margin-top: 15px;
+}
+.share-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.share-para {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.025em;
+}
+.information-para {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  letter-spacing: 0.025em;
+}
+.information-title {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.community-building {
+  margin-top: 38px;
+}
+.build-community-title {
+  padding-top: 4px;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.build-community-para {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  letter-spacing: 0.025em;
+  color: #000000;
+}
+.update-answer h3 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.update-details h3 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  color: #09a42b;
+}
+.update-details p {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  color: #09a42b;
+}
+.update-details .update_para {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+
+  color: #09a42b;
+}
+.update-container {
+  padding-top: 100px !important;
+}
+.timer p {
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  color: #70cb84;
+}
+.relate_question h3 {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 38px;
+}
+.relate_question button {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+}
+
+form {
+  position: relative;
+}
+
+.half-width {
+  width: 50%;
+}
+
+/* form img {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  border: none;
+  outline: none;
+} */
+input.input-bottom.text {
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.025em;
+  padding-top: 21px;
+  color: #000000 !important;
+  border-bottom: 1px solid #000;
+}
+.input-bottom {
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 0.3rem 5px;
+}
+.community-container-update {
+  background-image: url("https://i.ibb.co/WvCy1zJ/Rectangle-shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  min-height: 50vh;
+  padding: 120px 90px 140px 90px;
+}
+.button-div button {
+  color: #000;
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 5px 159px;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 38px;
+}
+.update-title h1 {
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 80px;
+}
+.section-container-update {
+  background-color: #f3f3f3;
+  padding: 0;
+  margin: 0;
+  padding-bottom: 200px;
+}
+button.all_question_btn {
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  border-radius: 20px;
+  padding: 13px 2px;
+}
+button.see_more {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 28px;
+  color: #000000;
+}
+.see-more-div {
+  padding-top: 6px;
+}
+.see-more-div h3 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+}
+.question-container {
+  padding: 40px 30px !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+}
+.popular-container {
+  border-radius: 25px;
+}
+.question_area__avatar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 55px;
+}
+form.ask-button {
+  padding: 7px 50px;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  border-radius: 15px;
+  margin: 24px 0;
+}
+.ask-form {
+  padding: 11px;
+}
+button.ask-button {
+  padding: 7px 50px;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 35px;
+  border-radius: 15px;
+  margin: 24px 0;
+}
+h3.popular-question {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  padding-bottom: 10px;
+}
+.card.my-2 {
+  padding: 20px;
+  border-radius: 25px;
+}
+
+/* Refer CSS  */
+.refer-container {
+  background-image: url("https://i.ibb.co/WvCy1zJ/Rectangle-shape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  width: 100%;
+  min-height: 50vh;
+}
+
+.container-box {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  margin: 0 auto;
+  margin-top: -188px;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.timer {
+  padding-left: 130px;
+}
+.rounded {
+  border-radius: 15px !important;
+}
+
+/* Bolog css */
+.blog-container {
+  background-image: url("https://i.ibb.co/sRK8xMM/Vector-4.png");
+  background-repeat: repeat-y;
+  background-size: auto;
+  background-position: bottom;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.blogs {
+  margin-top: -380px;
+}
+/* refer */
+.earn {
+  padding: 0;
+  margin: 0;
+}
+
+.earn-bg {
+  position: absolute;
+  background-image: url(https://i.ibb.co/Fhqk31F/Rectangle-195.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+}
+.earn-box {
+  background: #ffff;
+  padding: 90px 50px;
+  border-radius: 15px;
+  margin-bottom: 100px;
+}
+input.form-control.code-control {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 35px;
+  color: #afafaf !important;
+  background: #ffffff;
+  border: 3px solid #cccccc;
+  border-width: 3px 0px 3px 3px;
+  border-radius: 10px;
+}
+
+.earn-title h1 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+}
+.earn-content h5 {
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 38px;
+  color: #09a42b;
+}
+.earn-content p {
+  font-weight: 700 !important;
+  font-size: 22px;
+  line-height: 34px;
+  letter-spacing: 0.025em;
+  color: #000000;
+}
+.earn-btn button {
+  background: #f52a4f !important;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 35px;
+  color: #ffffff;
+}
+.or h3 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 38px;
+  color: #000000;
+}
+.input-group-text {
+  display: flex;
+  align-items: center;
+  padding: 0.375rem 0.75rem;
+  text-align: center;
+  white-space: nowrap;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  font-size: 23px;
+  line-height: 35px;
+  background: #f52a4f;
+  color: #fff;
+}
+/* blog-starts */
+.address_book_area_box {
+  border: 1px solid #f2f2f2;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  background: #f6f6f6;
+  padding: 30px 41px;
+}
+
+@media screen and (max-width: 960px) {
+  .half-width {
+    width: 75%;
+  }
+
+  .question-container {
+    flex-direction: column;
+  }
+
+  .container-box {
+    width: 70%;
+    flex-direction: column-reverse;
+  }
+
+  .blogs {
+    margin-top: -240px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .half-width {
+    width: 100%;
+  }
+
+  .container-box {
+    width: 90%;
+    flex-direction: column-reverse;
+  }
+
+  .blogs {
+    margin-top: -300px;
+  }
+
+  .stories {
+    margin-top: 0;
+  }
+}
+@media screen and (max-width: 425px) {
+  .earn-box {
+    margin-bottom: 45px;
+  }
+  .timer {
+    padding-left: 1px;
+  }
+  .earn-title h1 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 80px;
+    margin-bottom: 80px;
+    margin-top: 33px;
+  }
+  .update-container {
+    padding-top: 35px !important;
+  }
+  .update-details h3 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    color: #09a42b;
+  }
+  .update-details p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #09a42b;
+  }
+  .update-details .update_para {
+    text-align: center;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 35px;
+    color: #09a42b;
+  }
+  .timer p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 33px;
+    color: #70cb84;
+  }
+  .relate_question h3 {
+    padding-top: 16px;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: center;
+  }
+  .relate_question button {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .update-answer h3 {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+  }
+  .community-container-update {
+    padding: 12px;
+  }
+  .section-container-update {
+    padding-bottom: 30px;
+  }
+  .update-title h1 {
+    font-size: 33px;
+  }
+  .button-div button {
+    padding: 3px 61px;
+    font-size: 20px;
+    margin-bottom: 30px;
+  }
+
+  button.btn.text-white.community-get-start-btn {
+    padding: 5px 15px;
+    margin-bottom: 22px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 38px;
+    letter-spacing: 0.025em;
+    margin-left: 9px;
+  }
+  .community-name {
+    font-weight: 800;
+    font-size: 42px;
+    padding-top: 20px;
+  }
+  .community-title {
+    font-weight: 800;
+    font-size: 19px;
+    line-height: 45px;
+    text-align: center;
+  }
+  p.community-des {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+    text-align: center;
+  }
+  .btn.text-white.community-btn {
+    padding: 7px 10px !important;
+  }
+}

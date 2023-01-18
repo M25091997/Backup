@@ -1,0 +1,9 @@
+[22-Mar-2022 15:14:34 Asia/Calcutta] PHP Notice:  Undefined variable: media_banner_edit in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/update_super_cat.php on line 22
+[22-Mar-2022 15:15:32 Asia/Calcutta] PHP Notice:  Undefined variable: media_banner_edit in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/update_super_cat.php on line 22
+[22-Mar-2022 18:21:43 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[22-Mar-2022 21:36:22 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[23-Mar-2022 12:15:07 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[23-Mar-2022 12:15:55 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[23-Mar-2022 12:29:13 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[23-Mar-2022 12:29:19 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125
+[23-Mar-2022 12:30:28 Asia/Calcutta] PHP Notice:  Undefined variable: result in /home/u565281308/domains/cybertizeweb.com/public_html/cms/jayshree-crm/site-admin/admin/action/add_bank_detail.php on line 125

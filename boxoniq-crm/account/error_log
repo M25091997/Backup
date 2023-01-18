@@ -1,0 +1,4 @@
+[09-Aug-2020 11:25:23 UTC] PHP Parse error:  syntax error, unexpected '$booking_id' (T_VARIABLE), expecting ',' or ';' in /home/cybertiz/cityindia.in/account/my-orders.php on line 80
+[10-Aug-2020 15:59:13 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cybertiz/cityindia.in/account/my-orders.php:3) in /home/cybertiz/cityindia.in/account/my-orders.php on line 86
+[11-Aug-2020 05:59:15 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/cybertiz/cityindia.in/account/my-favourites.php on line 62
+[27-Sep-2020 00:16:21 Asia/Calcutta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cybertiz/cityindia.in/account/my-orders.php:3) in /home/cybertiz/cityindia.in/account/my-orders.php on line 107

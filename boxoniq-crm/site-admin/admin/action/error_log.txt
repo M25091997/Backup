@@ -1,0 +1,2 @@
+[23-Jun-2022 17:45:54 Asia/Calcutta] PHP Notice:  Undefined index: faq_edit_id in /home/u565281308/domains/cybertizeweb.com/public_html/cms/boxoniq-crm/site-admin/admin/action/update_faq_section.php on line 13
+[25-Jun-2022 17:32:53 Asia/Calcutta] PHP Notice:  Undefined variable: ad in /home/u565281308/domains/cybertizeweb.com/public_html/cms/boxoniq-crm/site-admin/admin/action/update_main_cat.php on line 32

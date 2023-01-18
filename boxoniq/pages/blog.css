@@ -1,0 +1,265 @@
+.blog-banner,
+.show-blog-banner {
+  background-image: url("https://i.ibb.co/sRK8xMM/Vector-4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+.blog-banner h1 {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+  color: #ffffff;
+  padding: 28px 0px;
+}
+.blog-banner p {
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 31px;
+  color: #ffffff;
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 550px;
+}
+.show-blog-banner h1 {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+  color: #ffffff;
+  padding: 28px 0px;
+  padding-bottom: 500px;
+}
+
+.blogs {
+  margin: -490px 100px 0px 100px;
+}
+/* .blog {
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 27px 27px 8px 8px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  background-color: #ffffff;
+  border-radius: 30px;
+  position: relative;
+}
+.show-card-body {
+  background: #ffffff;
+  border-radius: 85px 85px 0px 0px;
+  position: absolute;
+  padding: 63px;
+  bottom: -150px !important;
+  left: 0;
+}
+.blog img {
+  width: 100%;
+}
+.blog h2 {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.blog p {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 23px;
+} */
+
+/* blog starts */
+.blog-area {
+  padding-bottom: 100px;
+}
+.blog-content {
+  padding: 0px;
+  overflow: hidden;
+}
+.image-blog {
+  position: relative;
+  z-index: 1;
+}
+
+.blog-background {
+  position: absolute;
+  background-image: url(https://i.ibb.co/fkm3K2F/Vector-4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-repeat: round;
+}
+.blog-title.text-center {
+  padding: 16px 0;
+}
+.content-blog {
+  margin-top: -50px;
+  background: #ffffff;
+  padding: 50px;
+  position: relative;
+  z-index: 2;
+  border-radius: 70px 59px 0px 0px;
+}
+.content-blog p {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 127.5%;
+  color: #000000;
+}
+input.form-control .checkout {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 38px;
+  color: #595959;
+  width: 50%;
+}
+
+.blogs-container {
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 27px;
+}
+
+select.form_slect.form-select {
+  background: #d9d9d9;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 38px;
+}
+
+@media screen and (max-width: 968px) {
+  .blog-banner h1,
+  .show-blog-banner h1 {
+    font-size: 44px;
+  }
+  .blog-banner p {
+    font-weight: 400;
+    font-size: 15px;
+    width: 90%;
+    padding-bottom: 200px;
+  }
+  .show-blog-banner h1 {
+    padding-bottom: 200px;
+  }
+  .show-card-body {
+    padding: 20px;
+    bottom: -120 !important;
+    left: 0;
+    border-radius: 45px 45px 0px 0px;
+  }
+  .blogs {
+    margin: -230px 5px 0px 5px;
+  }
+  .blog {
+    border-radius: 15px;
+  }
+  .blog img {
+    width: 100%;
+  }
+  .blog h2 {
+    font-weight: 400;
+  }
+  .blog p {
+    font-weight: 400;
+    font-size: 12px;
+  }
+}
+/* .login {
+  background-image: url("https://i.ibb.co/Fhqk31F/Rectangle-195.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+} */
+.signup_title h1 {
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 80px;
+}
+Button.signup_button {
+  background: #d6ce15;
+  border: none;
+  color: #000;
+  font-weight: 700;
+  padding: 10px 0;
+  border-radius: 15px;
+}
+label.form_label.form-label {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+}
+input.form_control_group.form-control {
+  background: #d9d9d9;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 38px;
+}
+.login_title h1 {
+  font-size: 30px;
+  font-weight: 700;
+}
+.login_title h4 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #00000082;
+}
+Button.signup_button_otp {
+  border: none;
+  background: none;
+  color: #000;
+  font-weight: 700;
+}
+Button.signup_button_otp:hover {
+  border: none;
+  background: none;
+  color: #000;
+  font-weight: 700;
+}
+Button.signup_button_link {
+  border: none;
+  background: none;
+  color: #ff0000;
+  font-weight: 700;
+}
+Button.signup_button_link:hover {
+  border: none;
+  background: none;
+  color: #ff0000;
+  font-weight: 700;
+}
+
+Button.reset_button {
+  border: none;
+  background: none;
+  color: #000;
+  font-weight: 700;
+}
+Button.reset_button:hover {
+  border: none;
+  background: none;
+  color: #000;
+  font-weight: 700;
+}
+@media screen and (max-width: 425px) {
+  .signup_title {
+    padding: 0 9px;
+  }
+  .signup_title h1 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 80px;
+  }
+  .signup_form {
+    padding: 0px 10px 0 10px;
+  }
+  .login_title {
+    padding: 0 11px;
+  }
+  .login_title h1 {
+    font-size: 25px;
+    font-weight: 700;
+  }
+  .login_title h4 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #00000082;
+  }
+}

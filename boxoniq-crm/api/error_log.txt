@@ -1,0 +1,537 @@
+[22-Apr-2021 07:20:42 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 5
+[22-Apr-2021 07:20:42 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 6
+[22-Apr-2021 16:56:40 Asia/Calcutta] PHP Notice:  Undefined variable: media_number in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 15
+[22-Apr-2021 22:01:05 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 29
+[22-Apr-2021 22:01:05 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 30
+[23-Apr-2021 15:25:56 Asia/Calcutta] PHP Notice:  Undefined index: pincode in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 4
+[23-Apr-2021 15:25:56 Asia/Calcutta] PHP Notice:  Undefined index: attribute-id in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 5
+[23-Apr-2021 15:26:28 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 29
+[23-Apr-2021 15:26:28 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 30
+[23-Apr-2021 15:26:31 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[24-Apr-2021 22:45:25 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[24-Apr-2021 22:45:25 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[24-Apr-2021 22:45:54 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[24-Apr-2021 23:11:40 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/u565281308/domains/cityindia.in/public_html/api/add-to-cart.php on line 37
+[09-May-2021 01:05:49 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[09-May-2021 01:05:49 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[09-May-2021 01:06:42 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[09-May-2021 01:06:42 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[09-May-2021 01:06:56 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[10-May-2021 12:34:47 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[10-May-2021 12:34:47 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[10-May-2021 12:35:14 Asia/Calcutta] PHP Notice:  Undefined variable: account_id in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 24
+[10-May-2021 12:35:32 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[10-May-2021 12:35:32 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[28-May-2021 21:49:46 Asia/Calcutta] PHP Notice:  Undefined variable: media_number in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 15
+[08-Jun-2021 11:36:11 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[08-Jun-2021 11:36:46 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[08-Jun-2021 11:37:05 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[13-Jun-2021 19:04:35 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[13-Jun-2021 19:04:35 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[14-Jun-2021 23:28:29 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[14-Jun-2021 23:28:29 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[14-Jun-2021 23:28:40 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[28-Jun-2021 23:57:14 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[28-Jun-2021 23:57:14 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[28-Jun-2021 23:57:37 Asia/Calcutta] PHP Notice:  Undefined variable: account_id in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 24
+[28-Jun-2021 23:57:53 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[28-Jun-2021 23:57:53 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[29-Jun-2021 00:55:04 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[29-Jun-2021 00:55:04 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:09 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[01-Jul-2021 22:03:10 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:29 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:31 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:32 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:33 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:34 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:35 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:36 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:38 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 12
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 36
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 50
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 65
+[08-Jul-2021 12:36:40 Asia/Calcutta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/u565281308/domains/cityindia.in/public_html/api/get-search.php on line 82
+[12-Jul-2021 16:17:19 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[12-Jul-2021 16:17:19 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[12-Jul-2021 16:17:41 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[12-Jul-2021 16:17:41 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[18-Jul-2021 10:02:44 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[18-Jul-2021 10:02:44 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[18-Jul-2021 10:02:44 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 5
+[18-Jul-2021 10:05:17 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[18-Jul-2021 10:05:17 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[18-Jul-2021 10:05:17 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[18-Jul-2021 10:05:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[18-Jul-2021 10:07:33 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[18-Jul-2021 10:07:33 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[18-Jul-2021 10:07:33 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[18-Jul-2021 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[18-Jul-2021 15:39:08 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[18-Jul-2021 15:39:08 Asia/Calcutta] PHP Notice:  Undefined index: account_to_verify in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 7
+[20-Jul-2021 12:47:21 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 5
+[20-Jul-2021 12:47:21 Asia/Calcutta] PHP Notice:  Undefined index: rating in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 6
+[20-Jul-2021 12:47:21 Asia/Calcutta] PHP Notice:  Undefined index: review in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 7
+[20-Jul-2021 12:47:21 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 8
+[20-Jul-2021 12:48:44 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[20-Jul-2021 12:48:44 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[20-Jul-2021 12:48:44 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 8
+[20-Jul-2021 12:48:52 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-account.php on line 5
+[20-Jul-2021 12:50:29 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 6
+[20-Jul-2021 12:50:29 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 7
+[20-Jul-2021 07:23:39 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[20-Jul-2021 07:23:39 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[20-Jul-2021 07:23:39 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[20-Jul-2021 07:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[25-Jul-2021 11:54:53 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[25-Jul-2021 11:54:53 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[21-Aug-2021 08:50:26 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 6
+[21-Aug-2021 08:50:26 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 7
+[21-Aug-2021 03:21:56 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 03:21:56 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 03:21:56 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 03:21:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 03:22:27 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[21-Aug-2021 03:22:27 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[21-Aug-2021 03:22:27 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 5
+[21-Aug-2021 08:52:59 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[21-Aug-2021 08:52:59 Asia/Calcutta] PHP Notice:  Undefined index: account_to_verify in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 7
+[21-Aug-2021 08:53:32 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-account.php on line 5
+[21-Aug-2021 08:54:04 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[21-Aug-2021 08:54:04 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[21-Aug-2021 08:54:04 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 8
+[21-Aug-2021 03:25:17 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 03:25:17 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 03:25:17 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[21-Aug-2021 03:25:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[21-Aug-2021 13:19:21 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 13:19:21 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 13:19:21 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[21-Aug-2021 13:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[21-Aug-2021 13:21:27 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 13:21:27 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 13:21:27 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 13:21:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 20:48:15 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 20:48:15 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[21-Aug-2021 20:48:15 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 20:48:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[21-Aug-2021 20:54:50 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 20:54:50 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[21-Aug-2021 20:54:50 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[21-Aug-2021 20:54:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[22-Aug-2021 03:20:31 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 7
+[22-Aug-2021 02:39:04 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 02:39:04 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 02:39:04 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 02:39:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 02:40:02 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[22-Aug-2021 02:40:02 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[22-Aug-2021 02:40:02 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[22-Aug-2021 02:40:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[22-Aug-2021 06:06:12 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 06:06:12 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 06:06:12 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 06:06:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 19:20:33 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 7
+[22-Aug-2021 15:27:21 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 15:27:21 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Aug-2021 15:27:21 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 15:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Aug-2021 21:35:01 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 7
+[23-Aug-2021 18:08:06 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 5
+[23-Aug-2021 18:08:06 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 5
+[23-Aug-2021 18:08:06 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 8
+[23-Aug-2021 18:32:06 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[23-Aug-2021 18:32:06 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[23-Aug-2021 18:32:06 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 6
+[23-Aug-2021 18:32:06 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 51
+[23-Aug-2021 18:32:06 UTC] PHP Notice:  Undefined variable: total_cart_value in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 55
+[23-Aug-2021 22:29:47 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[23-Aug-2021 22:29:47 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[23-Aug-2021 22:29:47 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[23-Aug-2021 22:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[24-Aug-2021 05:59:47 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[24-Aug-2021 05:59:47 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[24-Aug-2021 05:59:47 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[24-Aug-2021 05:59:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section4.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[24-Aug-2021 07:04:57 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 3
+[24-Aug-2021 07:04:57 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 3
+[24-Aug-2021 07:04:57 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 5
+[24-Aug-2021 09:05:19 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[24-Aug-2021 09:05:19 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[24-Aug-2021 09:05:19 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[24-Aug-2021 09:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section4.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[25-Aug-2021 08:35:41 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[25-Aug-2021 08:35:41 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[25-Aug-2021 09:05:53 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[25-Aug-2021 09:05:53 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[25-Aug-2021 11:17:24 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[25-Aug-2021 11:17:24 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[25-Aug-2021 11:17:24 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[25-Aug-2021 11:17:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section4.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[29-Aug-2021 13:44:40 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[29-Aug-2021 13:44:40 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[29-Aug-2021 17:54:55 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[29-Aug-2021 17:54:55 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[29-Aug-2021 22:48:09 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[29-Aug-2021 22:48:09 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[29-Aug-2021 22:48:09 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[29-Aug-2021 22:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[30-Aug-2021 00:06:39 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 5
+[30-Aug-2021 00:06:39 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 5
+[30-Aug-2021 00:06:39 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 8
+[30-Aug-2021 10:56:14 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 5
+[30-Aug-2021 10:56:14 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 6
+[30-Aug-2021 11:13:41 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 5
+[30-Aug-2021 11:13:41 Asia/Calcutta] PHP Notice:  Undefined index: id in /home/u565281308/domains/cityindia.in/public_html/api/delete-from-cart.php on line 6
+[30-Aug-2021 07:54:03 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[30-Aug-2021 07:54:03 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[30-Aug-2021 07:54:03 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[30-Aug-2021 07:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[31-Aug-2021 03:49:46 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[31-Aug-2021 03:49:46 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[31-Aug-2021 03:49:46 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[31-Aug-2021 03:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[03-Sep-2021 22:04:47 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 29
+[03-Sep-2021 22:04:47 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 30
+[11-Sep-2021 04:16:03 Asia/Calcutta] PHP Notice:  Undefined index: phone in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 8
+[11-Sep-2021 04:16:03 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[11-Sep-2021 04:16:09 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 7
+[11-Sep-2021 04:16:13 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[11-Sep-2021 04:16:13 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[10-Sep-2021 22:46:22 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[10-Sep-2021 22:46:22 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[10-Sep-2021 22:46:22 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 12
+[10-Sep-2021 22:46:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 12
+[01-Oct-2021 01:12:28 Asia/Calcutta] PHP Notice:  Undefined variable: media_number in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 15
+[17-Oct-2021 08:47:52 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[23-Oct-2021 19:25:05 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 29
+[23-Oct-2021 19:25:05 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/add-to-favourites.php on line 30
+[30-Oct-2021 00:57:49 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[30-Oct-2021 00:57:49 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[30-Oct-2021 00:57:49 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 8
+[01-Nov-2021 09:45:39 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[01-Nov-2021 09:45:39 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[01-Nov-2021 09:45:39 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 6
+[01-Nov-2021 09:45:39 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 51
+[01-Nov-2021 09:45:39 UTC] PHP Notice:  Undefined variable: total_cart_value in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 55
+[07-Nov-2021 13:13:42 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 5
+[07-Nov-2021 13:13:42 Asia/Calcutta] PHP Notice:  Undefined index: full_address in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 7
+[07-Nov-2021 13:13:42 Asia/Calcutta] PHP Notice:  Undefined index: landmark in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 8
+[07-Nov-2021 13:13:42 Asia/Calcutta] PHP Notice:  Undefined index: pincode in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 9
+[07-Nov-2021 13:18:21 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/get_attribute_data.php on line 4
+[24-Nov-2021 04:58:14 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 5
+[24-Nov-2021 04:58:14 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 5
+[24-Nov-2021 04:58:14 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-category.php on line 8
+[15-Dec-2021 09:11:38 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[15-Dec-2021 09:11:38 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[15-Dec-2021 09:11:38 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[15-Dec-2021 09:11:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section4.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[20-Dec-2021 13:53:44 Asia/Calcutta] PHP Notice:  Undefined index: pincode in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 4
+[20-Dec-2021 13:53:44 Asia/Calcutta] PHP Notice:  Undefined index: attribute-id in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 5
+[22-Dec-2021 12:12:25 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[22-Dec-2021 12:12:25 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 5
+[22-Dec-2021 12:12:25 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[22-Dec-2021 12:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section3.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section3.php on line 13
+[22-Dec-2021 12:44:09 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Dec-2021 12:44:09 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 5
+[22-Dec-2021 12:44:09 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Dec-2021 12:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section2.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section2.php on line 7
+[22-Dec-2021 19:26:37 Asia/Calcutta] PHP Notice:  Undefined index: phone in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 8
+[22-Dec-2021 19:26:37 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[23-Dec-2021 01:17:30 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 5
+[23-Dec-2021 01:17:30 Asia/Calcutta] PHP Notice:  Undefined index: rating in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 6
+[23-Dec-2021 01:17:30 Asia/Calcutta] PHP Notice:  Undefined index: review in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 7
+[23-Dec-2021 01:17:30 Asia/Calcutta] PHP Notice:  Undefined index: item-id in /home/u565281308/domains/cityindia.in/public_html/api/save-rating.php on line 8
+[23-Dec-2021 10:15:19 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[23-Dec-2021 10:15:19 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[23-Dec-2021 10:15:19 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[23-Dec-2021 10:15:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[26-Dec-2021 10:39:21 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[26-Dec-2021 10:39:21 Asia/Calcutta] PHP Notice:  Undefined variable: email in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 21
+[26-Dec-2021 10:39:32 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[30-Dec-2021 02:42:08 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 5
+[30-Dec-2021 02:42:08 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 5
+[30-Dec-2021 02:42:08 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-product.php on line 8
+[30-Dec-2021 05:06:49 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/main-carousel.php on line 3
+[30-Dec-2021 05:06:49 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/main-carousel.php on line 3
+[30-Dec-2021 05:06:49 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/main-carousel.php on line 7
+[30-Dec-2021 05:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/main-carousel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/main-carousel.php on line 7
+[30-Dec-2021 17:06:23 Asia/Calcutta] PHP Notice:  Undefined index: phone in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 8
+[30-Dec-2021 17:06:23 Asia/Calcutta] PHP Notice:  Undefined variable: to_delete_id in /home/u565281308/domains/cityindia.in/public_html/api/save-account.php on line 14
+[30-Dec-2021 17:07:13 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 6
+[30-Dec-2021 17:07:13 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 7
+[30-Dec-2021 17:24:48 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[30-Dec-2021 17:24:48 Asia/Calcutta] PHP Notice:  Undefined index: account_to_verify in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 7
+[30-Dec-2021 17:26:16 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[30-Dec-2021 17:26:16 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[30-Dec-2021 17:26:16 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 8
+[30-Dec-2021 17:26:23 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/update-password.php on line 7
+[30-Dec-2021 12:39:35 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[30-Dec-2021 12:39:35 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 5
+[30-Dec-2021 12:39:35 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[30-Dec-2021 12:39:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/section4.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/section4.php on line 13
+[30-Dec-2021 18:09:39 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 6
+[30-Dec-2021 18:09:39 Asia/Calcutta] PHP Notice:  Undefined index: account_to_verify in /home/u565281308/domains/cityindia.in/public_html/api/verify-otp.php on line 7
+[30-Dec-2021 18:09:42 Asia/Calcutta] PHP Notice:  Undefined index: otp-n in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 6
+[30-Dec-2021 18:09:42 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 7
+[30-Dec-2021 18:09:42 Asia/Calcutta] PHP Notice:  Undefined index: account-id-password-reset in /home/u565281308/domains/cityindia.in/public_html/api/verify-reset-otp.php on line 8
+[31-Dec-2021 05:20:41 Asia/Calcutta] PHP Notice:  Undefined index: mobile in /home/u565281308/domains/cityindia.in/public_html/api/reset-password.php on line 7
+[31-Dec-2021 05:20:44 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[31-Dec-2021 05:20:44 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[30-Dec-2021 23:50:49 UTC] PHP Warning:  include(../../config.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[30-Dec-2021 23:50:49 UTC] PHP Warning:  include(): Failed opening '../../config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 2
+[30-Dec-2021 23:50:49 UTC] PHP Notice:  Undefined variable: conn in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[30-Dec-2021 23:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u565281308/domains/cityindia.in/public_html/api/intent-slider.php on line 5
+[30-Dec-2021 23:51:01 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 3
+[30-Dec-2021 23:51:01 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 3
+[30-Dec-2021 23:51:01 UTC] PHP Notice:  Undefined index: slug in /home/u565281308/domains/cityindia.in/public_html/api/get-main-category.php on line 5
+[04-Jan-2022 05:56:04 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-account.php on line 5
+[04-Jan-2022 00:26:09 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[04-Jan-2022 00:26:09 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 3
+[04-Jan-2022 00:26:09 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 6
+[04-Jan-2022 00:26:09 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 51
+[04-Jan-2022 00:26:09 UTC] PHP Notice:  Undefined variable: total_cart_value in /home/u565281308/domains/cityindia.in/public_html/api/load-cart.php on line 55
+[04-Jan-2022 05:56:13 Asia/Calcutta] PHP Notice:  Undefined index: email in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 7
+[04-Jan-2022 05:56:13 Asia/Calcutta] PHP Notice:  Undefined index: password in /home/u565281308/domains/cityindia.in/public_html/api/make-login.php on line 8
+[04-Jan-2022 05:56:16 Asia/Calcutta] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 5
+[04-Jan-2022 05:56:16 Asia/Calcutta] PHP Notice:  Undefined index: full_address in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 7
+[04-Jan-2022 05:56:16 Asia/Calcutta] PHP Notice:  Undefined index: landmark in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 8
+[04-Jan-2022 05:56:16 Asia/Calcutta] PHP Notice:  Undefined index: pincode in /home/u565281308/domains/cityindia.in/public_html/api/save-delivery-address.php on line 9
+[04-Jan-2022 05:56:34 Asia/Calcutta] PHP Notice:  Undefined index: pincode in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 4
+[04-Jan-2022 05:56:34 Asia/Calcutta] PHP Notice:  Undefined index: attribute-id in /home/u565281308/domains/cityindia.in/public_html/api/check-pincode.php on line 5
+[04-Jan-2022 00:26:45 UTC] PHP Warning:  include(../inc/app.php): failed to open stream: No such file or directory in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[04-Jan-2022 00:26:45 UTC] PHP Warning:  include(): Failed opening '../inc/app.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 3
+[04-Jan-2022 00:26:45 UTC] PHP Notice:  Undefined index: account-id in /home/u565281308/domains/cityindia.in/public_html/api/get-orders.php on line 5

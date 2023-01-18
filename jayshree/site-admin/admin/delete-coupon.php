@@ -1,0 +1,71 @@
+<?php 
+
+session_start();
+
+include ("../../config.php");
+
+include ("../../variables.php");
+
+
+
+if (!isset($_SESSION['username']) && !isset($_SESSION['name'])) {
+
+  ?>
+
+  <script type="text/javascript">
+
+    window.location.href="index.php";
+
+  </script>
+
+  <?php
+
+}
+
+else{
+
+
+
+
+
+  $ad_id = $_GET['id'];
+
+
+
+	$q_delete = $conn -> query("DELETE FROM coupon WHERE id = '$ad_id'");
+
+
+
+	if ($q_delete) {
+
+		echo "Coupon Successfully Removed!";
+
+
+
+      ?>
+
+  <script type="text/javascript">
+
+    window.location.href="coupons.php";
+
+  </script>
+
+  <?php
+
+
+
+	} else{ 
+
+
+
+echo mysqli_error($conn);
+
+
+
+	}
+
+
+
+} 
+
+?>
